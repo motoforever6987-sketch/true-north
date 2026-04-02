@@ -35,9 +35,15 @@ export default function TrueNorthSystemsWebsite() {
               <a href="#contact" className="bg-white text-slate-950 px-6 py-4 rounded-2xl font-semibold shadow">
                 Start Now
               </a>
-              <a href="#contact" className="border border-white/15 px-6 py-4 rounded-2xl">
-                Book a Call
-              </a>
+<a
+  href="https://calendly.com/motoforever6987/system-setup-call"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="border border-white/15 px-6 py-4 rounded-2xl"
+>
+  Book a Call
+</a>
+
             </div>
 
             <div className="mt-10">
